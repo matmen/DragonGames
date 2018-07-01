@@ -1,0 +1,20 @@
+name: DragonGames
+version: 3.0.0
+author: matmen
+website: compactnetwork.de
+
+main: main.DragonGames
+
+commands:
+    dg:
+       description: Main command
+       usage: /<command> <args>
+    start:
+       description: Forces the game to start
+       usage: /<command>
+    forcestart:
+       description: Forces the game to start
+       usage: /<command>
+    stats:
+       description: Shows your current stats
+       usage: /<command>
